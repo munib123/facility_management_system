@@ -1,0 +1,1001 @@
+Task_ID,Location_ID,Date,Time,Cleaner_ID,Task_Type,Status,Duration_Mins,Notes
+1,142,2025-02-01,10:16:17,11,Vacuuming,Completed,52,
+2,130,2024-11-30,23:38:58,1,Trash Collection,Missed,79,
+3,133,2025-03-12,04:19:47,4,Trash Collection,Completed,96,
+4,113,2025-09-30,07:03:57,5,Trash Collection,Completed,112,
+5,150,2025-03-20,21:47:33,17,Vacuuming,Completed,91,
+6,102,2025-08-27,19:23:39,4,Trash Collection,Completed,118,
+7,104,2025-09-30,16:43:06,8,Deep Clean,Completed,25,
+8,132,2025-08-14,03:13:41,3,Deep Clean,Planned,113,
+9,143,2025-06-07,11:54:19,16,Deep Clean,Completed,36,
+10,139,2025-02-11,17:06:49,14,Mop Floor,Completed,84,
+11,145,2025-02-22,14:38:35,7,Trash Collection,Completed,66,Save article finish anyone live try most arm.
+12,142,2025-06-15,04:20:57,12,Sanitization,Missed,81,
+13,116,2025-10-26,16:54:35,8,Vacuuming,Planned,58,
+14,136,2024-12-26,16:16:00,8,Deep Clean,Completed,43,
+15,146,2024-12-26,11:58:30,2,Mop Floor,Completed,23,Identify walk now often always.
+16,122,2024-12-31,21:24:01,3,Deep Clean,Completed,45,
+17,132,2025-08-12,06:04:54,7,Deep Clean,Completed,31,
+18,137,2025-07-07,20:02:18,19,Sanitization,Completed,46,
+19,127,2025-04-01,08:47:45,7,Vacuuming,Completed,27,
+20,123,2025-02-17,03:06:21,14,Sanitization,Completed,74,Draw how public feel first sell.
+21,104,2024-12-28,12:53:13,4,Vacuuming,Completed,66,
+22,107,2025-05-26,23:55:34,8,Mop Floor,Completed,39,
+23,109,2025-07-06,01:08:26,14,Mop Floor,Completed,50,
+24,105,2024-12-28,23:24:53,15,Deep Clean,Completed,27,
+25,135,2025-02-20,19:58:30,1,Vacuuming,Completed,111,Car give attention each expect.
+26,111,2025-05-19,18:08:06,14,Sanitization,Completed,76,
+27,126,2025-08-30,02:30:11,2,Mop Floor,Completed,63,
+28,125,2025-07-25,13:52:08,9,Sanitization,Completed,51,
+29,147,2025-08-10,21:24:55,18,Sanitization,Completed,34,
+30,114,2024-12-03,19:55:04,2,Deep Clean,Completed,109,
+31,148,2025-10-13,17:08:59,11,Vacuuming,Completed,21,
+32,133,2025-03-26,14:46:59,17,Mop Floor,Completed,22,Voice care break blood.
+33,106,2025-07-02,16:17:25,6,Vacuuming,Completed,91,
+34,116,2025-03-15,02:09:49,13,Vacuuming,Planned,87,
+35,139,2025-07-22,05:28:54,2,Deep Clean,Missed,25,
+36,138,2025-09-04,08:03:33,19,Deep Clean,Planned,55,Reach table measure economy traditional.
+37,114,2024-12-19,02:10:44,11,Mop Floor,Completed,48,
+38,143,2025-08-03,00:47:21,10,Sanitization,Completed,55,Analysis four capital woman claim.
+39,105,2025-05-20,02:11:24,1,Sanitization,Completed,94,Night born war real chance along.
+40,107,2025-04-22,08:29:28,3,Deep Clean,Completed,42,
+41,109,2025-07-02,21:23:07,12,Vacuuming,Completed,46,
+42,111,2025-05-15,16:12:49,15,Deep Clean,Completed,105,
+43,142,2024-12-16,19:16:03,17,Vacuuming,Completed,100,Together someone team together decide economic.
+44,120,2025-01-08,17:31:17,4,Mop Floor,Planned,48,
+45,107,2025-09-28,23:31:39,18,Mop Floor,Completed,49,
+46,114,2025-11-08,13:33:19,11,Mop Floor,Completed,102,
+47,117,2025-07-29,08:48:44,17,Sanitization,Completed,47,Understand door class son.
+48,104,2025-02-06,15:11:51,3,Sanitization,Completed,50,
+49,122,2024-12-09,00:48:09,5,Trash Collection,Completed,35,
+50,136,2025-09-12,12:20:51,14,Deep Clean,Completed,16,
+51,145,2025-09-29,04:28:05,5,Deep Clean,Missed,19,Environment skin blue the teach.
+52,138,2025-02-24,09:49:44,18,Mop Floor,Completed,70,
+53,120,2025-10-13,21:34:34,12,Vacuuming,Planned,60,
+54,116,2025-04-14,13:26:37,4,Trash Collection,Planned,114,
+55,127,2025-10-14,10:04:03,20,Mop Floor,Completed,45,Development process huge everything attorney.
+56,112,2025-09-26,16:32:44,14,Vacuuming,Planned,37,
+57,122,2025-04-15,02:45:46,14,Mop Floor,Completed,49,
+58,145,2025-06-15,01:26:39,4,Sanitization,Completed,19,Former agree theory end oil worker although.
+59,115,2025-07-19,03:22:46,7,Sanitization,Completed,59,
+60,115,2025-04-13,02:03:24,8,Vacuuming,Completed,99,
+61,122,2025-10-01,11:48:31,9,Vacuuming,Completed,113,
+62,142,2025-05-18,09:39:54,17,Sanitization,Completed,101,Break tonight couple and job mind southern.
+63,135,2025-08-23,12:42:34,11,Vacuuming,Planned,29,Hair attorney professional form finish.
+64,117,2025-10-25,13:53:47,6,Deep Clean,Completed,48,
+65,139,2025-09-05,13:12:40,14,Trash Collection,Completed,108,
+66,128,2025-06-14,07:29:15,20,Deep Clean,Completed,29,
+67,137,2025-08-15,15:51:38,7,Trash Collection,Completed,20,
+68,101,2025-04-05,17:10:51,17,Deep Clean,Planned,102,
+69,148,2025-08-27,13:11:44,7,Trash Collection,Completed,70,
+70,143,2025-07-03,18:07:55,11,Deep Clean,Missed,55,
+71,108,2025-02-12,06:00:31,10,Deep Clean,Completed,54,
+72,121,2025-08-15,16:58:07,13,Trash Collection,Completed,85,
+73,127,2025-08-20,23:38:47,13,Mop Floor,Completed,93,
+74,126,2025-11-15,11:21:06,18,Vacuuming,Planned,53,
+75,128,2025-07-27,04:30:36,19,Deep Clean,Completed,98,
+76,129,2025-03-26,01:16:26,15,Mop Floor,Completed,80,
+77,148,2025-06-30,02:09:09,6,Vacuuming,Completed,51,
+78,141,2025-03-28,06:41:58,20,Trash Collection,Completed,26,Involve oil pressure let kind.
+79,149,2025-02-20,07:09:59,8,Trash Collection,Completed,43,Soldier where save probably exist professional people.
+80,110,2025-01-05,00:36:34,1,Vacuuming,Completed,46,Pull different current agency each.
+81,140,2025-06-02,07:07:39,3,Sanitization,Planned,68,Lay though offer responsibility.
+82,137,2025-04-28,19:28:10,7,Sanitization,Completed,78,
+83,110,2025-05-04,06:23:22,1,Vacuuming,Completed,114,
+84,112,2025-01-26,09:50:44,17,Sanitization,Completed,21,
+85,108,2025-08-24,19:36:35,15,Mop Floor,Completed,117,
+86,134,2025-11-11,07:45:32,18,Deep Clean,Completed,55,Sing despite sound receive.
+87,129,2025-05-29,04:25:54,20,Deep Clean,Completed,69,Eat summer lead soon property write other.
+88,136,2025-09-19,05:19:54,15,Mop Floor,Completed,110,Spring throughout interview trade knowledge city technology late.
+89,129,2025-09-17,04:14:48,9,Mop Floor,Planned,96,
+90,150,2025-10-22,03:51:51,17,Sanitization,Completed,95,
+91,129,2025-03-17,09:39:20,3,Trash Collection,Completed,45,
+92,121,2025-09-28,23:27:05,18,Vacuuming,Completed,32,
+93,125,2025-06-06,22:00:20,5,Mop Floor,Completed,23,
+94,122,2025-03-02,03:45:27,18,Sanitization,Completed,68,
+95,127,2025-05-19,20:37:15,13,Deep Clean,Completed,104,
+96,149,2025-09-03,19:28:56,19,Sanitization,Completed,76,
+97,123,2025-03-01,12:22:36,10,Sanitization,Completed,68,
+98,148,2025-04-09,10:10:58,18,Deep Clean,Completed,43,
+99,118,2025-11-11,13:21:07,14,Sanitization,Completed,18,
+100,143,2024-12-31,07:20:35,13,Mop Floor,Completed,74,Discuss really relationship ask.
+101,140,2025-05-07,02:26:09,18,Vacuuming,Completed,65,
+102,143,2025-06-28,14:40:29,1,Vacuuming,Completed,97,
+103,130,2025-05-10,14:56:46,6,Vacuuming,Completed,48,
+104,114,2025-02-18,17:22:23,15,Trash Collection,Completed,58,
+105,125,2025-04-30,09:03:59,9,Sanitization,Planned,47,Watch affect thing offer local wall fear hope.
+106,131,2025-11-11,19:55:50,1,Deep Clean,Completed,21,Section national owner determine detail job ahead.
+107,123,2025-04-09,22:39:23,8,Vacuuming,Completed,114,Right subject try wonder move trade.
+108,103,2025-07-17,00:55:55,1,Mop Floor,Completed,40,Base investment term.
+109,140,2025-02-08,19:57:09,5,Mop Floor,Completed,31,
+110,108,2025-03-11,16:15:53,19,Mop Floor,Completed,74,
+111,150,2025-04-06,20:16:46,12,Mop Floor,Completed,92,
+112,148,2025-05-25,19:07:08,4,Mop Floor,Completed,54,
+113,102,2025-04-10,11:12:26,10,Deep Clean,Planned,101,Everything week instead strong like see.
+114,125,2024-12-20,07:28:33,13,Mop Floor,Planned,24,
+115,141,2025-02-25,10:03:39,8,Vacuuming,Completed,104,
+116,144,2024-12-26,15:39:59,20,Vacuuming,Planned,116,Senior wear current.
+117,103,2024-12-07,09:09:26,12,Deep Clean,Planned,69,
+118,105,2025-01-28,01:36:01,17,Trash Collection,Completed,16,List boy way let.
+119,132,2025-03-09,08:32:14,4,Sanitization,Planned,61,
+120,130,2025-04-22,10:07:23,5,Sanitization,Completed,37,
+121,142,2025-07-23,05:14:10,9,Deep Clean,Planned,118,Sing clearly find official.
+122,150,2025-11-25,17:44:45,16,Sanitization,Planned,70,Quality when however resource away real physical.
+123,138,2025-01-08,19:49:28,9,Trash Collection,Completed,46,Sure outside building worker site.
+124,106,2025-04-13,10:55:08,9,Sanitization,Completed,46,
+125,137,2025-05-15,04:50:57,20,Sanitization,Completed,58,
+126,121,2025-04-22,22:17:40,6,Sanitization,Completed,42,
+127,117,2025-06-14,18:35:50,11,Trash Collection,Planned,91,
+128,118,2025-04-11,11:17:59,18,Vacuuming,Planned,81,State black whether player stock religious.
+129,106,2025-05-18,21:47:16,8,Sanitization,Completed,77,
+130,116,2025-09-10,02:03:21,16,Sanitization,Completed,72,
+131,106,2025-08-09,22:25:23,10,Mop Floor,Completed,66,
+132,120,2025-07-27,21:36:40,19,Trash Collection,Completed,75,
+133,123,2025-11-22,08:38:37,14,Deep Clean,Completed,57,
+134,130,2025-09-26,09:29:51,9,Trash Collection,Completed,47,
+135,147,2025-05-29,06:18:15,7,Trash Collection,Planned,30,
+136,149,2025-10-16,18:07:13,6,Mop Floor,Completed,42,
+137,118,2025-07-18,00:10:35,19,Deep Clean,Completed,91,
+138,107,2025-04-04,19:34:14,7,Trash Collection,Completed,44,
+139,120,2025-10-18,00:25:54,1,Deep Clean,Completed,31,
+140,104,2025-03-18,17:52:06,18,Trash Collection,Missed,104,Seek now property from management.
+141,141,2025-04-05,15:41:55,16,Vacuuming,Missed,16,
+142,131,2025-06-07,06:25:07,16,Sanitization,Completed,58,
+143,104,2025-04-16,05:32:31,9,Sanitization,Completed,29,Future they red everybody act.
+144,126,2025-02-12,22:07:15,16,Vacuuming,Completed,88,
+145,104,2025-03-03,13:16:10,5,Mop Floor,Completed,118,
+146,120,2025-05-06,16:02:20,3,Mop Floor,Completed,30,
+147,127,2025-07-03,06:49:56,20,Deep Clean,Completed,116,
+148,150,2025-03-03,04:31:11,17,Sanitization,Completed,72,Position make society behavior develop reality fill.
+149,120,2025-07-13,01:16:27,19,Sanitization,Completed,54,
+150,104,2025-06-01,15:28:35,20,Vacuuming,Completed,112,
+151,114,2025-06-24,03:16:17,9,Vacuuming,Planned,35,
+152,136,2025-05-14,07:49:07,3,Mop Floor,Completed,15,
+153,145,2025-07-01,20:41:49,20,Sanitization,Completed,52,
+154,119,2025-04-15,13:18:21,10,Sanitization,Completed,24,
+155,117,2025-05-25,15:56:33,19,Mop Floor,Missed,69,
+156,115,2025-03-29,16:08:04,5,Trash Collection,Completed,120,
+157,104,2025-02-27,22:02:10,6,Trash Collection,Completed,91,
+158,137,2025-09-06,17:00:16,10,Sanitization,Completed,30,
+159,120,2025-04-01,13:10:54,13,Trash Collection,Completed,79,
+160,129,2025-09-14,23:18:08,3,Deep Clean,Completed,20,Course school everybody operation.
+161,148,2025-09-21,22:04:57,11,Deep Clean,Completed,47,
+162,115,2025-07-19,23:17:58,19,Deep Clean,Completed,17,Strategy fast guess few.
+163,144,2025-08-31,23:59:36,9,Deep Clean,Completed,20,
+164,112,2025-01-18,01:05:01,16,Deep Clean,Completed,98,
+165,118,2024-12-17,06:02:11,6,Deep Clean,Completed,70,
+166,132,2025-07-02,02:17:42,3,Sanitization,Planned,59,
+167,121,2025-08-27,16:38:57,4,Mop Floor,Completed,57,
+168,132,2025-08-04,18:01:21,10,Sanitization,Completed,119,
+169,103,2025-06-08,19:54:45,15,Vacuuming,Completed,55,
+170,108,2025-11-03,20:35:45,13,Deep Clean,Completed,120,Expect long future whole education technology box.
+171,143,2024-12-25,15:17:53,18,Sanitization,Completed,67,
+172,134,2025-06-08,07:44:11,12,Deep Clean,Completed,111,
+173,129,2025-07-12,22:59:18,2,Mop Floor,Completed,49,
+174,119,2025-08-23,11:03:28,15,Sanitization,Completed,30,
+175,141,2025-01-27,07:49:25,20,Mop Floor,Completed,105,
+176,136,2025-10-11,10:53:36,1,Deep Clean,Completed,67,
+177,108,2025-03-27,04:23:15,15,Vacuuming,Completed,97,Budget share paper so difficult.
+178,132,2025-06-20,08:19:56,10,Deep Clean,Completed,105,
+179,131,2025-05-23,21:21:59,16,Mop Floor,Planned,73,
+180,125,2025-03-25,20:55:03,7,Deep Clean,Completed,80,
+181,109,2025-05-15,06:24:34,3,Trash Collection,Completed,113,
+182,127,2025-07-08,17:13:41,11,Deep Clean,Completed,49,Participant science way debate.
+183,119,2025-02-19,19:33:44,10,Deep Clean,Planned,89,Church community avoid able.
+184,132,2025-05-23,09:53:55,5,Sanitization,Planned,83,
+185,122,2025-07-18,17:42:44,18,Deep Clean,Completed,63,
+186,121,2025-03-23,06:26:05,7,Mop Floor,Completed,88,
+187,150,2025-02-27,21:15:31,14,Vacuuming,Planned,55,
+188,146,2025-08-31,00:04:41,13,Sanitization,Completed,99,
+189,142,2025-08-30,00:14:09,5,Sanitization,Completed,19,
+190,138,2024-12-27,01:04:38,11,Vacuuming,Completed,71,
+191,130,2025-02-28,12:58:49,1,Mop Floor,Completed,67,Operation sound cup boy different chance enter central.
+192,110,2024-12-23,00:47:48,3,Sanitization,Planned,115,Organization station TV keep light.
+193,122,2025-03-28,23:24:00,20,Sanitization,Planned,98,
+194,122,2025-05-05,17:10:42,18,Sanitization,Completed,55,
+195,149,2025-06-12,07:33:03,16,Deep Clean,Completed,19,
+196,116,2025-06-09,13:20:12,10,Mop Floor,Completed,110,
+197,107,2024-12-31,06:45:55,4,Sanitization,Completed,36,
+198,102,2024-12-15,03:08:15,2,Trash Collection,Planned,116,
+199,123,2025-09-11,08:18:43,12,Sanitization,Planned,33,
+200,127,2025-07-22,22:16:23,19,Mop Floor,Completed,36,
+201,140,2024-12-10,22:36:38,13,Deep Clean,Completed,102,
+202,138,2025-02-26,18:38:35,5,Mop Floor,Completed,74,
+203,130,2025-10-20,15:37:58,9,Vacuuming,Completed,117,
+204,119,2025-07-16,15:08:47,18,Mop Floor,Planned,24,
+205,123,2025-09-23,15:35:06,19,Trash Collection,Completed,96,Office several compare million kind.
+206,145,2025-03-18,22:29:25,9,Sanitization,Completed,53,
+207,125,2025-07-15,23:31:13,16,Vacuuming,Completed,45,
+208,123,2025-08-03,04:01:50,19,Trash Collection,Completed,104,
+209,143,2025-06-08,20:12:54,13,Trash Collection,Completed,16,
+210,144,2025-05-31,14:51:21,2,Deep Clean,Completed,110,
+211,119,2025-05-07,10:12:15,8,Deep Clean,Completed,117,
+212,141,2025-04-03,06:12:42,7,Deep Clean,Completed,47,
+213,147,2025-01-09,07:45:47,5,Vacuuming,Completed,95,
+214,120,2025-04-07,11:51:43,15,Vacuuming,Completed,89,
+215,109,2025-08-26,22:47:07,3,Trash Collection,Completed,56,
+216,112,2025-03-21,14:28:28,7,Mop Floor,Completed,115,
+217,124,2025-05-04,07:02:38,17,Deep Clean,Completed,49,Already because education break significant ten stay.
+218,117,2024-11-30,05:41:57,16,Trash Collection,Completed,110,Left approach million performance material kind appear.
+219,108,2025-03-13,22:16:42,15,Vacuuming,Completed,33,
+220,115,2025-01-19,00:04:47,13,Deep Clean,Planned,61,
+221,126,2025-05-19,02:22:02,1,Trash Collection,Completed,83,
+222,124,2025-06-06,01:28:59,9,Deep Clean,Completed,63,Win participant dream.
+223,124,2025-01-30,17:40:44,4,Mop Floor,Completed,75,
+224,136,2025-07-01,21:08:08,11,Deep Clean,Completed,43,
+225,141,2025-07-02,15:55:40,15,Trash Collection,Completed,98,
+226,109,2025-01-05,23:09:37,2,Vacuuming,Completed,53,Left brother strategy marriage.
+227,108,2025-09-04,06:12:07,4,Mop Floor,Missed,83,
+228,130,2025-06-15,02:25:43,12,Deep Clean,Completed,68,
+229,147,2025-03-16,01:38:29,5,Sanitization,Planned,98,
+230,132,2025-10-20,14:12:29,20,Sanitization,Completed,50,
+231,124,2025-06-01,23:08:49,7,Sanitization,Completed,71,Necessary himself two meet these tell everybody.
+232,124,2025-10-02,10:47:47,4,Trash Collection,Completed,84,Various meet star executive fear only.
+233,142,2025-08-13,01:50:27,12,Vacuuming,Completed,65,
+234,108,2025-11-01,08:37:05,15,Vacuuming,Completed,99,
+235,141,2025-05-22,11:49:45,20,Vacuuming,Completed,21,
+236,116,2025-06-06,02:27:09,5,Deep Clean,Completed,41,
+237,149,2025-04-08,23:33:48,18,Mop Floor,Completed,90,
+238,115,2025-09-22,00:39:42,11,Mop Floor,Completed,115,Lay focus country recently occur do.
+239,101,2025-09-27,20:53:29,9,Mop Floor,Completed,31,
+240,112,2024-12-16,07:34:20,4,Vacuuming,Completed,31,
+241,116,2025-09-15,21:19:16,19,Trash Collection,Planned,17,
+242,104,2025-08-30,16:15:51,5,Sanitization,Missed,82,
+243,105,2025-04-27,00:56:41,16,Sanitization,Planned,114,
+244,138,2025-08-14,01:13:36,4,Sanitization,Completed,79,
+245,140,2025-10-14,00:29:03,2,Deep Clean,Completed,53,
+246,102,2025-01-28,11:02:47,2,Sanitization,Planned,66,
+247,107,2024-12-14,20:49:59,16,Sanitization,Completed,24,Whole forward beyond suddenly between treat address.
+248,121,2025-01-24,01:46:15,20,Mop Floor,Missed,23,
+249,140,2025-11-03,16:16:23,19,Deep Clean,Missed,106,
+250,139,2025-01-28,20:47:26,17,Trash Collection,Planned,73,
+251,128,2025-05-31,21:59:35,4,Vacuuming,Completed,98,
+252,150,2025-03-12,23:38:32,18,Mop Floor,Completed,70,
+253,115,2025-07-30,06:23:26,14,Trash Collection,Planned,120,
+254,127,2025-05-03,18:39:53,4,Trash Collection,Completed,69,
+255,117,2024-12-31,13:00:22,12,Mop Floor,Completed,102,Here first responsibility service their along attention.
+256,105,2025-08-02,20:14:42,3,Vacuuming,Completed,26,
+257,148,2025-11-22,20:15:09,12,Mop Floor,Planned,86,
+258,136,2025-02-26,23:29:20,18,Trash Collection,Completed,100,
+259,123,2025-01-04,10:03:48,14,Vacuuming,Completed,51,
+260,123,2025-01-07,02:11:16,4,Deep Clean,Completed,79,
+261,143,2025-08-03,07:14:00,16,Mop Floor,Completed,28,
+262,136,2025-11-03,02:54:15,12,Vacuuming,Missed,112,
+263,115,2025-05-21,00:27:29,14,Deep Clean,Completed,113,Tough animal someone fall hear.
+264,140,2025-01-25,13:26:39,18,Vacuuming,Completed,92,Include radio conference company participant him raise.
+265,145,2025-06-11,10:46:48,9,Vacuuming,Planned,38,
+266,149,2025-01-24,01:48:00,10,Trash Collection,Completed,59,
+267,110,2025-05-28,04:56:02,19,Sanitization,Completed,23,
+268,141,2025-03-08,16:28:48,1,Vacuuming,Completed,110,
+269,125,2025-03-09,09:59:00,14,Sanitization,Completed,58,
+270,120,2024-12-03,06:19:28,11,Deep Clean,Completed,91,
+271,104,2025-05-29,02:58:12,5,Mop Floor,Planned,111,
+272,144,2025-08-20,18:29:29,3,Trash Collection,Planned,71,
+273,132,2025-01-30,20:20:24,20,Sanitization,Planned,68,
+274,149,2025-05-20,01:55:16,17,Vacuuming,Planned,59,
+275,119,2025-07-16,12:27:33,19,Sanitization,Completed,82,
+276,103,2025-08-05,06:08:28,8,Sanitization,Completed,91,
+277,114,2025-08-25,05:24:09,10,Mop Floor,Completed,113,
+278,117,2025-05-26,06:35:44,10,Trash Collection,Completed,30,
+279,148,2025-02-15,14:27:28,14,Mop Floor,Completed,31,
+280,146,2025-10-27,04:50:10,8,Deep Clean,Completed,86,Down occur offer yeah.
+281,123,2025-03-24,07:28:46,3,Sanitization,Planned,109,
+282,102,2025-10-18,09:22:49,15,Vacuuming,Completed,55,
+283,137,2025-05-02,05:55:38,13,Sanitization,Completed,52,
+284,102,2024-12-03,05:48:31,11,Mop Floor,Completed,117,Treat seat strategy.
+285,130,2025-11-15,09:27:41,12,Vacuuming,Completed,70,Parent good PM per question.
+286,116,2025-09-05,14:08:56,14,Deep Clean,Completed,66,
+287,126,2025-08-13,17:53:03,10,Trash Collection,Completed,43,
+288,111,2025-10-21,15:59:31,3,Deep Clean,Completed,96,
+289,133,2025-07-31,00:32:30,7,Trash Collection,Completed,59,
+290,142,2025-11-15,13:20:28,5,Mop Floor,Completed,28,
+291,113,2025-08-08,20:29:03,6,Deep Clean,Completed,34,
+292,142,2025-03-29,00:28:42,3,Mop Floor,Completed,113,
+293,130,2025-05-20,06:43:02,19,Deep Clean,Planned,72,
+294,137,2025-07-13,16:12:08,20,Trash Collection,Completed,95,
+295,129,2025-09-10,06:11:51,3,Sanitization,Completed,71,
+296,118,2025-01-04,00:14:38,19,Vacuuming,Completed,60,
+297,120,2025-04-05,17:42:11,15,Sanitization,Completed,19,
+298,119,2025-05-10,13:23:06,3,Vacuuming,Completed,93,
+299,125,2025-02-15,20:23:20,15,Deep Clean,Completed,85,Theory hand maybe evening clearly trial want.
+300,148,2025-10-09,18:43:54,2,Sanitization,Completed,118,
+301,113,2025-09-15,19:31:10,11,Deep Clean,Completed,75,
+302,104,2025-10-08,13:24:25,15,Vacuuming,Completed,118,While cell whom team right woman whose.
+303,122,2025-10-08,01:55:37,3,Deep Clean,Completed,97,
+304,116,2025-04-21,11:45:42,15,Sanitization,Completed,82,
+305,111,2025-10-03,04:53:37,12,Trash Collection,Completed,51,
+306,150,2024-12-05,03:41:14,11,Deep Clean,Missed,21,
+307,142,2025-06-26,19:33:08,11,Vacuuming,Completed,57,
+308,144,2025-05-25,05:54:38,13,Trash Collection,Completed,47,
+309,143,2025-08-18,18:49:33,20,Mop Floor,Completed,57,
+310,143,2025-08-18,01:22:23,5,Trash Collection,Completed,54,Herself police he push likely people wall foreign.
+311,145,2025-07-24,02:40:38,13,Mop Floor,Completed,91,
+312,106,2025-08-08,06:25:54,10,Deep Clean,Completed,63,
+313,122,2025-08-03,10:22:08,5,Deep Clean,Completed,26,
+314,128,2025-11-18,08:49:19,17,Trash Collection,Missed,17,
+315,112,2025-03-27,22:25:00,7,Trash Collection,Planned,113,
+316,115,2025-05-07,23:54:28,5,Mop Floor,Completed,24,
+317,107,2025-01-23,02:25:30,17,Deep Clean,Completed,109,Fight manage best.
+318,103,2025-11-09,19:02:25,11,Deep Clean,Completed,31,
+319,110,2025-01-21,20:16:00,6,Mop Floor,Completed,103,
+320,111,2025-05-25,12:59:25,15,Vacuuming,Completed,67,
+321,147,2025-08-17,20:20:59,8,Sanitization,Completed,93,
+322,148,2025-08-27,13:22:30,15,Mop Floor,Completed,83,
+323,131,2025-05-11,10:09:51,7,Trash Collection,Completed,101,Those pressure street past.
+324,129,2025-11-29,23:29:49,15,Trash Collection,Completed,114,
+325,134,2024-12-12,00:27:19,14,Mop Floor,Missed,119,
+326,139,2025-04-22,06:24:55,5,Trash Collection,Completed,21,
+327,124,2025-05-21,23:24:34,18,Vacuuming,Completed,106,Talk between rate name within.
+328,108,2025-04-18,23:32:10,10,Vacuuming,Completed,112,
+329,129,2025-05-03,01:41:33,17,Mop Floor,Completed,70,
+330,115,2025-02-11,07:06:38,15,Trash Collection,Completed,18,
+331,126,2025-10-25,01:28:44,17,Trash Collection,Completed,45,
+332,106,2025-01-04,04:57:09,12,Mop Floor,Completed,18,
+333,107,2025-02-20,15:37:29,11,Mop Floor,Completed,32,
+334,131,2025-08-05,03:26:21,5,Sanitization,Completed,72,
+335,106,2024-12-08,03:15:25,1,Trash Collection,Completed,42,During call north attention share debate.
+336,136,2025-02-21,12:59:37,20,Deep Clean,Completed,69,
+337,119,2025-11-02,05:07:35,8,Trash Collection,Planned,30,
+338,127,2025-04-06,00:51:03,20,Sanitization,Completed,23,
+339,132,2025-01-26,20:19:18,20,Deep Clean,Completed,17,
+340,137,2025-11-14,04:53:42,8,Mop Floor,Completed,52,
+341,140,2024-12-01,16:53:13,12,Mop Floor,Completed,88,
+342,143,2025-10-29,05:44:28,3,Deep Clean,Completed,61,
+343,134,2025-01-19,03:04:30,18,Deep Clean,Completed,115,Sometimes body term capital group.
+344,136,2025-10-02,19:43:47,1,Sanitization,Completed,75,
+345,125,2025-07-16,09:12:12,12,Trash Collection,Completed,110,
+346,105,2024-12-06,21:54:31,12,Mop Floor,Completed,108,
+347,107,2025-03-13,09:14:01,19,Trash Collection,Completed,32,
+348,135,2025-01-18,12:03:25,11,Mop Floor,Completed,114,
+349,145,2025-05-12,22:14:30,16,Mop Floor,Completed,118,
+350,146,2025-01-13,14:39:56,15,Vacuuming,Completed,52,
+351,113,2024-12-24,03:47:00,2,Trash Collection,Completed,54,
+352,135,2025-05-23,17:14:25,16,Trash Collection,Planned,19,
+353,113,2025-04-19,14:21:55,10,Trash Collection,Completed,114,
+354,142,2025-07-18,13:15:02,11,Trash Collection,Completed,30,
+355,128,2025-05-24,23:29:15,13,Sanitization,Completed,64,
+356,112,2025-02-24,13:31:27,16,Sanitization,Completed,62,Road training probably.
+357,134,2025-03-27,17:00:19,9,Vacuuming,Completed,108,
+358,128,2025-08-06,06:04:50,20,Mop Floor,Completed,84,
+359,107,2024-12-23,03:50:15,3,Trash Collection,Planned,99,
+360,129,2025-10-25,06:01:28,20,Sanitization,Completed,36,
+361,123,2025-05-14,01:05:54,15,Vacuuming,Completed,108,Make travel available ball.
+362,123,2025-07-24,20:34:39,20,Sanitization,Completed,50,
+363,104,2024-12-25,12:12:54,3,Sanitization,Completed,61,
+364,148,2025-03-16,11:53:32,6,Vacuuming,Completed,33,Nature foot yes most law painting between reduce.
+365,144,2025-10-27,23:29:31,15,Vacuuming,Planned,31,
+366,150,2025-08-09,16:08:13,12,Trash Collection,Completed,64,Result Democrat later direction fund law indeed.
+367,103,2025-01-05,10:21:14,20,Mop Floor,Missed,101,
+368,124,2025-05-14,19:34:21,12,Sanitization,Planned,112,
+369,109,2025-08-15,07:41:10,17,Trash Collection,Completed,65,
+370,118,2025-04-24,20:39:50,8,Vacuuming,Completed,18,
+371,132,2025-08-23,23:48:57,17,Sanitization,Completed,86,
+372,150,2024-12-26,09:42:14,9,Sanitization,Completed,42,Behavior benefit school speech.
+373,119,2025-07-04,20:02:49,16,Mop Floor,Completed,30,
+374,105,2025-07-15,07:20:41,15,Mop Floor,Completed,106,
+375,106,2025-07-06,09:29:07,11,Trash Collection,Completed,105,
+376,135,2025-08-17,01:48:00,10,Trash Collection,Completed,35,
+377,145,2025-05-08,17:28:08,6,Trash Collection,Planned,80,
+378,113,2025-11-04,03:04:46,5,Mop Floor,Completed,116,
+379,124,2025-11-30,09:59:27,18,Deep Clean,Planned,62,
+380,136,2025-05-13,01:26:58,5,Deep Clean,Completed,26,
+381,126,2024-12-19,01:37:27,16,Deep Clean,Completed,67,
+382,137,2025-07-21,23:01:44,3,Mop Floor,Completed,55,
+383,129,2025-04-15,00:08:38,15,Deep Clean,Completed,59,
+384,150,2025-07-12,19:22:35,18,Deep Clean,Planned,38,
+385,109,2025-02-20,20:08:37,14,Deep Clean,Completed,22,Difference board suddenly happen several off southern.
+386,134,2025-10-24,21:04:23,5,Trash Collection,Planned,36,
+387,146,2025-09-24,02:38:20,8,Trash Collection,Completed,81,Party poor ago upon stop environment Congress reflect.
+388,106,2025-03-29,09:18:20,9,Mop Floor,Completed,96,Accept thank not husband center plan.
+389,118,2024-12-11,15:35:27,5,Trash Collection,Completed,93,
+390,133,2025-09-15,05:14:56,6,Deep Clean,Planned,89,
+391,143,2025-02-21,08:42:13,20,Deep Clean,Missed,58,Law church find food walk other.
+392,137,2025-11-08,14:23:12,2,Vacuuming,Completed,25,
+393,142,2025-01-29,10:39:37,19,Trash Collection,Completed,98,
+394,137,2025-09-18,10:49:58,14,Deep Clean,Completed,96,
+395,141,2024-12-19,13:59:58,18,Trash Collection,Completed,97,Evening product magazine kind.
+396,131,2025-03-16,23:53:49,8,Sanitization,Planned,53,
+397,145,2025-09-19,10:28:43,2,Mop Floor,Planned,71,
+398,130,2025-01-13,07:37:39,7,Trash Collection,Completed,92,
+399,146,2025-05-15,04:19:33,11,Trash Collection,Completed,66,
+400,124,2025-03-20,04:43:50,17,Deep Clean,Completed,28,
+401,130,2025-08-20,10:21:36,4,Trash Collection,Completed,72,
+402,107,2025-06-06,00:26:17,2,Trash Collection,Planned,64,Animal house out account feeling.
+403,127,2025-02-20,13:49:20,8,Mop Floor,Completed,119,
+404,137,2025-01-22,07:43:51,11,Mop Floor,Planned,112,
+405,133,2025-03-09,05:56:16,15,Sanitization,Completed,54,
+406,106,2025-04-06,05:27:07,13,Deep Clean,Planned,73,Market issue can.
+407,114,2025-06-24,20:15:43,19,Trash Collection,Completed,21,
+408,132,2025-02-27,02:06:45,20,Sanitization,Completed,51,
+409,107,2025-07-04,10:15:27,14,Mop Floor,Planned,48,
+410,149,2025-10-09,20:56:55,13,Trash Collection,Completed,20,
+411,137,2024-12-27,06:10:41,18,Mop Floor,Completed,61,
+412,105,2025-10-30,12:53:38,13,Deep Clean,Missed,72,
+413,118,2024-12-16,07:07:37,20,Deep Clean,Missed,30,
+414,107,2024-12-07,06:05:30,13,Trash Collection,Completed,116,Television office of remember.
+415,136,2025-05-11,22:32:57,12,Mop Floor,Completed,40,
+416,126,2025-01-13,03:10:57,17,Vacuuming,Completed,20,
+417,146,2024-12-08,03:46:06,11,Sanitization,Completed,81,
+418,139,2025-02-04,23:16:49,17,Mop Floor,Completed,56,Least ready gun join black job hundred bad.
+419,121,2025-11-03,21:59:01,6,Sanitization,Completed,93,
+420,120,2025-09-15,15:33:45,19,Trash Collection,Completed,79,Four collection member box member.
+421,135,2025-11-16,06:10:30,16,Deep Clean,Completed,53,
+422,102,2025-04-14,15:08:52,12,Trash Collection,Completed,101,
+423,127,2025-09-08,01:52:03,19,Trash Collection,Completed,116,Door chair culture own.
+424,145,2025-09-21,20:02:01,1,Deep Clean,Completed,75,
+425,142,2025-08-11,21:58:47,19,Deep Clean,Completed,44,
+426,138,2025-02-06,05:50:32,16,Mop Floor,Completed,82,
+427,140,2025-07-31,08:17:16,13,Mop Floor,Completed,120,
+428,103,2025-05-29,20:27:52,19,Vacuuming,Planned,39,
+429,121,2025-07-06,20:22:27,14,Mop Floor,Completed,67,
+430,127,2025-07-13,14:24:58,17,Deep Clean,Completed,75,Poor worry follow wife firm key light.
+431,148,2025-08-02,15:25:29,2,Mop Floor,Completed,81,
+432,121,2025-10-05,01:13:23,16,Deep Clean,Completed,63,
+433,112,2025-07-17,03:58:30,15,Deep Clean,Completed,58,
+434,144,2025-04-15,22:14:28,9,Deep Clean,Completed,76,
+435,116,2024-12-28,05:29:40,9,Deep Clean,Completed,53,
+436,120,2025-05-28,09:07:20,10,Mop Floor,Completed,103,
+437,121,2024-12-14,00:14:19,16,Trash Collection,Completed,86,Story baby ten talk past medical.
+438,147,2025-05-28,03:58:25,9,Trash Collection,Planned,30,
+439,135,2025-07-03,17:42:53,13,Sanitization,Completed,119,
+440,150,2025-09-12,15:00:06,5,Trash Collection,Completed,20,
+441,146,2025-05-23,02:00:36,3,Trash Collection,Completed,71,
+442,148,2025-07-10,12:11:24,16,Mop Floor,Missed,40,Focus little character artist billion.
+443,118,2025-11-14,04:36:40,18,Trash Collection,Completed,32,
+444,148,2025-09-03,00:17:05,19,Mop Floor,Completed,46,
+445,134,2025-06-13,13:49:23,8,Mop Floor,Planned,21,
+446,122,2025-02-05,21:11:20,16,Vacuuming,Planned,102,
+447,101,2025-03-06,00:47:18,18,Mop Floor,Missed,67,
+448,131,2025-05-19,21:18:32,16,Mop Floor,Completed,111,Mission city health executive impact full our.
+449,121,2025-10-02,18:30:07,10,Vacuuming,Completed,113,
+450,137,2025-08-08,18:06:46,8,Deep Clean,Completed,109,
+451,103,2024-12-25,12:11:56,6,Sanitization,Completed,37,Newspaper hit edge surface.
+452,103,2025-11-16,05:02:17,13,Sanitization,Completed,38,Four old center glass.
+453,119,2025-08-11,19:31:34,2,Vacuuming,Completed,53,
+454,107,2025-08-14,04:02:42,11,Trash Collection,Planned,73,Organization visit finally heavy.
+455,135,2025-10-03,07:53:47,17,Sanitization,Completed,32,Prove stock school rate.
+456,130,2025-06-22,18:51:58,9,Mop Floor,Completed,118,
+457,111,2025-08-07,06:36:21,15,Trash Collection,Completed,106,
+458,148,2025-05-13,13:11:53,11,Trash Collection,Completed,87,
+459,113,2025-04-19,02:56:27,6,Deep Clean,Completed,96,Final week game she court yourself.
+460,128,2025-01-29,22:46:02,17,Trash Collection,Completed,26,
+461,107,2025-03-24,19:59:48,6,Mop Floor,Completed,76,
+462,116,2025-01-08,16:42:37,1,Trash Collection,Completed,64,
+463,149,2025-09-25,01:47:53,9,Trash Collection,Completed,53,
+464,137,2025-10-20,02:18:28,1,Trash Collection,Completed,98,
+465,116,2025-11-08,00:21:14,2,Vacuuming,Missed,74,
+466,126,2024-12-14,08:10:21,17,Trash Collection,Completed,103,
+467,119,2025-04-09,16:17:32,12,Deep Clean,Completed,43,
+468,109,2025-07-28,05:47:58,16,Mop Floor,Planned,73,
+469,139,2025-07-19,10:09:20,12,Sanitization,Completed,104,
+470,131,2025-01-28,16:13:52,18,Mop Floor,Missed,112,
+471,149,2025-02-08,18:31:23,20,Vacuuming,Completed,82,
+472,146,2025-09-25,00:12:47,12,Vacuuming,Missed,87,
+473,136,2025-10-10,11:57:29,17,Mop Floor,Completed,88,
+474,111,2025-09-06,10:21:35,11,Deep Clean,Planned,71,
+475,114,2024-12-16,22:42:35,19,Sanitization,Completed,26,Put down know expect security large.
+476,129,2025-06-25,13:33:53,2,Sanitization,Missed,31,
+477,130,2025-03-30,10:55:30,19,Vacuuming,Completed,86,
+478,120,2025-09-30,10:42:09,1,Sanitization,Completed,47,Happy water worker left example.
+479,148,2025-04-27,19:31:38,7,Deep Clean,Missed,24,
+480,123,2025-06-22,20:54:28,3,Deep Clean,Completed,22,Stage soon catch economic.
+481,105,2025-08-06,03:29:28,16,Vacuuming,Completed,51,
+482,150,2025-11-04,12:38:42,5,Sanitization,Completed,62,Various represent middle by base civil last.
+483,125,2025-06-17,08:53:43,15,Sanitization,Completed,63,
+484,143,2025-10-18,10:32:57,18,Mop Floor,Completed,98,Watch develop later glass.
+485,108,2024-12-10,07:38:52,6,Deep Clean,Completed,65,
+486,147,2024-12-20,22:00:04,8,Vacuuming,Planned,111,
+487,120,2025-06-12,20:43:04,15,Deep Clean,Completed,69,
+488,115,2025-03-01,05:03:36,8,Sanitization,Completed,59,
+489,113,2024-12-31,12:07:19,4,Vacuuming,Missed,118,
+490,140,2025-02-25,14:31:31,1,Mop Floor,Planned,41,
+491,139,2025-04-02,17:23:08,2,Sanitization,Completed,91,
+492,104,2025-10-21,01:42:16,8,Vacuuming,Completed,66,
+493,135,2025-08-09,16:29:11,7,Vacuuming,Completed,32,
+494,119,2025-10-03,01:48:17,8,Deep Clean,Completed,55,
+495,150,2025-01-22,00:44:45,11,Mop Floor,Completed,53,True line story serve light.
+496,143,2025-07-26,12:27:29,17,Mop Floor,Completed,67,
+497,104,2025-11-16,04:00:59,18,Deep Clean,Completed,109,Eight strong nature.
+498,141,2025-09-08,19:07:37,14,Deep Clean,Completed,78,
+499,123,2025-06-22,01:18:01,13,Deep Clean,Missed,55,
+500,127,2025-01-12,21:00:35,5,Trash Collection,Missed,63,
+501,135,2025-03-21,13:55:11,16,Mop Floor,Completed,43,
+502,146,2025-03-26,13:22:10,5,Sanitization,Completed,22,
+503,127,2024-12-18,10:42:14,18,Deep Clean,Completed,32,
+504,117,2025-05-12,05:33:12,7,Trash Collection,Planned,97,
+505,129,2025-10-04,00:58:28,12,Vacuuming,Completed,83,
+506,113,2025-05-26,01:55:36,2,Trash Collection,Completed,63,
+507,139,2025-01-12,07:44:35,2,Vacuuming,Planned,39,Movie place offer responsibility fact ability good number.
+508,138,2025-02-10,00:55:08,18,Mop Floor,Planned,76,
+509,122,2025-08-16,22:42:47,10,Vacuuming,Planned,42,Window attack moment medical write never hospital.
+510,148,2025-05-31,01:17:48,4,Sanitization,Completed,46,
+511,146,2025-08-03,23:41:39,7,Sanitization,Completed,45,
+512,150,2025-04-23,12:16:26,10,Sanitization,Completed,74,
+513,123,2025-09-16,16:52:12,10,Trash Collection,Planned,61,
+514,132,2025-04-17,18:30:52,15,Vacuuming,Planned,117,General run pick sign.
+515,131,2025-09-11,08:33:41,11,Mop Floor,Completed,62,
+516,103,2025-04-08,21:55:27,19,Mop Floor,Completed,109,
+517,117,2024-12-17,10:33:56,18,Deep Clean,Completed,89,
+518,119,2025-06-30,15:18:21,5,Mop Floor,Planned,57,
+519,137,2025-10-11,18:31:20,8,Sanitization,Missed,85,
+520,144,2025-02-05,16:39:38,11,Trash Collection,Completed,112,Wonder long consider care respond want already.
+521,147,2025-02-16,19:27:39,16,Sanitization,Completed,36,
+522,123,2025-10-03,20:23:22,6,Mop Floor,Completed,107,
+523,112,2025-11-09,13:52:07,18,Vacuuming,Missed,82,
+524,105,2025-04-01,23:28:11,2,Vacuuming,Planned,67,
+525,141,2025-06-18,21:54:04,8,Vacuuming,Planned,105,
+526,114,2025-10-12,02:25:40,17,Sanitization,Completed,62,
+527,141,2025-06-01,03:32:55,20,Sanitization,Completed,99,
+528,101,2024-12-14,03:32:09,18,Deep Clean,Completed,67,
+529,134,2025-08-08,21:38:19,9,Deep Clean,Completed,51,
+530,145,2025-03-21,15:23:27,14,Mop Floor,Planned,28,Tend forward buy.
+531,134,2025-04-21,11:39:02,5,Mop Floor,Planned,39,
+532,117,2025-11-10,14:17:01,12,Trash Collection,Missed,116,
+533,124,2025-09-14,17:07:10,13,Sanitization,Missed,87,
+534,145,2025-11-12,02:35:23,8,Trash Collection,Completed,102,Wind many marriage under mind song.
+535,106,2025-09-08,23:54:46,2,Vacuuming,Completed,66,
+536,136,2024-12-30,19:10:17,16,Vacuuming,Planned,96,
+537,111,2025-07-21,06:29:07,3,Sanitization,Planned,70,
+538,122,2025-06-29,14:29:50,19,Vacuuming,Completed,82,Bill foreign fast knowledge response coach.
+539,115,2025-05-21,17:56:46,7,Deep Clean,Completed,75,
+540,105,2025-05-22,17:50:09,9,Deep Clean,Completed,87,
+541,112,2025-09-08,21:49:13,11,Vacuuming,Missed,41,
+542,149,2025-07-26,12:06:57,13,Vacuuming,Completed,53,
+543,116,2025-03-16,02:18:06,19,Sanitization,Completed,101,Avoid point guy song.
+544,122,2025-08-20,11:47:51,13,Mop Floor,Completed,116,Central parent sit.
+545,147,2024-12-13,11:08:33,3,Deep Clean,Completed,110,Door population gun we.
+546,104,2024-12-12,17:07:33,4,Sanitization,Completed,44,Quickly we head several.
+547,122,2025-07-10,10:19:45,20,Deep Clean,Completed,91,
+548,150,2025-06-23,14:10:14,11,Vacuuming,Completed,96,
+549,129,2025-05-03,02:13:13,16,Mop Floor,Completed,60,
+550,125,2025-08-09,20:55:25,14,Mop Floor,Completed,102,
+551,125,2025-03-06,18:44:11,3,Deep Clean,Completed,52,
+552,146,2024-12-10,07:08:53,3,Vacuuming,Planned,49,
+553,146,2025-02-10,19:19:08,5,Sanitization,Completed,55,
+554,106,2025-06-19,14:57:41,1,Trash Collection,Completed,71,
+555,118,2025-11-19,10:49:25,4,Mop Floor,Planned,26,
+556,129,2025-01-14,11:52:00,18,Deep Clean,Completed,80,
+557,102,2025-09-26,12:53:39,3,Trash Collection,Completed,85,
+558,139,2025-08-30,04:16:51,11,Sanitization,Completed,16,
+559,125,2025-02-21,06:57:29,3,Deep Clean,Completed,46,
+560,111,2025-03-20,23:34:39,13,Mop Floor,Completed,32,
+561,118,2025-11-20,20:19:44,16,Mop Floor,Completed,23,
+562,118,2025-02-15,04:04:19,14,Trash Collection,Completed,76,
+563,124,2025-01-21,13:45:49,9,Mop Floor,Completed,107,
+564,139,2025-05-24,09:31:50,20,Mop Floor,Completed,73,
+565,120,2025-11-14,21:42:57,1,Sanitization,Completed,57,Young specific whose worry property remember.
+566,125,2025-07-01,17:48:52,11,Sanitization,Completed,57,
+567,142,2025-03-22,11:07:37,20,Mop Floor,Completed,53,
+568,145,2025-10-26,19:32:18,7,Sanitization,Completed,55,
+569,126,2025-09-02,07:17:07,11,Trash Collection,Planned,109,
+570,132,2025-11-25,01:03:24,19,Mop Floor,Completed,56,
+571,126,2025-08-04,01:19:58,12,Vacuuming,Completed,87,
+572,135,2025-10-04,22:29:07,6,Deep Clean,Completed,18,Difference world society door management guess occur.
+573,130,2025-05-30,02:53:29,7,Sanitization,Completed,117,
+574,145,2025-07-02,11:33:04,3,Sanitization,Completed,101,
+575,141,2025-07-25,21:32:20,10,Mop Floor,Planned,47,
+576,146,2024-12-25,11:06:07,14,Sanitization,Planned,24,
+577,139,2025-05-03,11:32:56,16,Deep Clean,Completed,66,
+578,145,2025-09-05,06:51:33,14,Deep Clean,Planned,19,
+579,124,2025-06-22,08:50:01,18,Deep Clean,Completed,96,Statement available win politics last quite.
+580,107,2025-04-12,18:34:33,8,Trash Collection,Completed,36,
+581,103,2025-11-05,12:58:06,19,Sanitization,Completed,111,
+582,128,2025-07-02,03:56:34,4,Vacuuming,Missed,27,
+583,133,2025-07-16,17:14:19,17,Deep Clean,Completed,89,
+584,115,2025-09-24,03:09:32,15,Trash Collection,Completed,65,
+585,144,2025-05-17,17:55:53,19,Deep Clean,Completed,34,
+586,102,2025-11-18,07:03:08,16,Vacuuming,Completed,52,
+587,106,2025-10-18,00:59:40,4,Mop Floor,Completed,59,
+588,130,2025-06-19,05:16:52,7,Deep Clean,Completed,76,
+589,107,2025-03-28,13:46:32,15,Sanitization,Completed,55,
+590,103,2025-01-31,18:37:54,4,Vacuuming,Completed,58,
+591,144,2025-11-28,13:06:06,6,Mop Floor,Completed,81,
+592,111,2025-02-25,10:48:24,11,Deep Clean,Completed,69,Thus suffer economy play nearly by field.
+593,115,2025-06-25,04:12:49,13,Mop Floor,Completed,38,
+594,128,2025-06-13,19:53:45,13,Vacuuming,Completed,109,
+595,113,2025-02-03,11:29:14,15,Deep Clean,Planned,69,
+596,146,2025-11-30,01:07:59,7,Mop Floor,Completed,50,
+597,105,2025-01-28,05:08:54,19,Vacuuming,Completed,117,Result painting successful nor stay agreement animal political.
+598,112,2025-07-11,01:23:45,12,Trash Collection,Completed,40,
+599,117,2025-08-09,16:05:50,16,Deep Clean,Completed,96,
+600,125,2025-09-23,13:08:10,20,Sanitization,Completed,90,
+601,123,2025-05-10,04:02:12,15,Deep Clean,Completed,37,Marriage phone face.
+602,146,2025-03-27,15:48:20,10,Deep Clean,Completed,90,
+603,109,2025-03-05,15:10:48,11,Vacuuming,Completed,45,
+604,112,2025-10-09,12:57:07,12,Mop Floor,Completed,80,
+605,139,2025-05-06,18:12:57,5,Deep Clean,Completed,64,
+606,132,2025-05-25,18:06:09,18,Mop Floor,Completed,86,
+607,119,2025-08-24,03:31:08,5,Mop Floor,Completed,55,Keep machine daughter parent.
+608,140,2025-03-31,00:09:10,2,Trash Collection,Completed,16,
+609,113,2025-04-03,15:12:39,13,Deep Clean,Completed,79,
+610,127,2025-10-30,05:33:41,16,Sanitization,Completed,105,Candidate have no five letter environment.
+611,132,2025-03-06,12:47:09,6,Vacuuming,Completed,87,
+612,149,2025-01-06,19:13:59,8,Trash Collection,Completed,19,
+613,135,2025-03-22,02:17:53,10,Mop Floor,Completed,114,
+614,148,2025-10-31,06:56:35,16,Deep Clean,Completed,80,
+615,108,2025-05-11,18:59:17,9,Deep Clean,Planned,120,Spend value return couple.
+616,135,2025-01-30,10:58:09,2,Sanitization,Planned,84,
+617,128,2025-06-17,18:03:59,4,Mop Floor,Completed,53,These market bed hotel lead drive on.
+618,103,2024-12-18,04:31:34,15,Trash Collection,Completed,59,Manager think pressure like Mr.
+619,106,2025-10-25,20:30:25,15,Vacuuming,Planned,114,Care enough hand idea and anything.
+620,114,2025-07-06,04:24:36,19,Trash Collection,Completed,105,
+621,128,2025-04-19,10:19:54,6,Deep Clean,Completed,32,
+622,114,2025-03-22,15:23:47,2,Deep Clean,Completed,59,
+623,139,2025-04-29,08:08:30,18,Mop Floor,Completed,56,Share evidence writer quite budget window hour.
+624,119,2025-10-04,00:15:29,10,Deep Clean,Completed,49,Voice sense current meeting matter and case.
+625,133,2025-04-08,16:18:50,4,Mop Floor,Completed,111,
+626,104,2025-06-01,02:01:43,9,Mop Floor,Completed,104,Chance throw cause use five hotel pattern.
+627,116,2025-10-23,12:14:10,5,Trash Collection,Completed,46,
+628,144,2025-07-18,14:34:48,13,Sanitization,Completed,33,
+629,118,2025-06-15,00:18:14,14,Sanitization,Completed,72,
+630,150,2025-06-24,04:54:39,3,Sanitization,Completed,80,
+631,145,2025-09-01,13:24:07,12,Sanitization,Completed,77,
+632,101,2025-03-26,12:28:05,3,Sanitization,Planned,96,
+633,123,2025-10-12,12:19:57,3,Deep Clean,Completed,65,
+634,128,2025-04-22,00:06:45,7,Sanitization,Completed,49,
+635,119,2025-08-18,05:41:02,11,Deep Clean,Completed,88,
+636,132,2025-05-10,23:53:22,11,Vacuuming,Completed,20,
+637,130,2025-03-29,10:45:23,1,Vacuuming,Completed,35,
+638,101,2025-11-14,00:44:34,14,Mop Floor,Completed,103,Ago listen whose situation simply officer return on.
+639,142,2025-02-04,20:46:04,10,Mop Floor,Completed,50,
+640,124,2025-08-01,02:19:08,9,Vacuuming,Completed,62,
+641,142,2025-07-28,22:33:07,6,Vacuuming,Completed,65,
+642,147,2025-10-22,16:22:10,8,Sanitization,Completed,98,
+643,107,2025-01-26,12:03:05,1,Mop Floor,Completed,76,
+644,138,2025-08-21,19:52:39,8,Deep Clean,Completed,102,
+645,101,2024-12-12,07:28:02,11,Vacuuming,Completed,69,
+646,131,2025-08-29,11:13:57,3,Mop Floor,Planned,64,
+647,107,2025-02-12,16:34:55,4,Trash Collection,Completed,62,Finish charge real improve simple turn.
+648,109,2025-11-03,08:01:50,13,Mop Floor,Completed,97,Relationship million night your.
+649,110,2025-06-03,19:19:49,3,Deep Clean,Completed,87,
+650,142,2025-04-25,08:42:40,6,Sanitization,Completed,59,
+651,141,2025-02-05,23:58:30,5,Sanitization,Completed,93,
+652,114,2025-11-19,22:40:50,3,Vacuuming,Completed,32,
+653,138,2025-04-11,16:40:06,13,Trash Collection,Completed,69,
+654,109,2025-04-16,19:18:33,8,Trash Collection,Completed,97,
+655,136,2025-09-25,16:15:03,20,Deep Clean,Completed,107,
+656,150,2025-08-21,12:49:34,1,Trash Collection,Completed,41,
+657,133,2025-10-08,09:29:52,7,Sanitization,Completed,52,
+658,116,2025-03-12,12:51:23,16,Sanitization,Completed,29,
+659,141,2025-06-06,18:02:34,20,Vacuuming,Completed,82,Everything fear walk word side.
+660,101,2025-08-30,22:01:13,12,Trash Collection,Completed,31,
+661,137,2025-08-25,13:52:45,14,Trash Collection,Completed,84,
+662,149,2025-06-07,02:10:14,16,Vacuuming,Missed,17,
+663,101,2025-06-04,13:11:57,9,Mop Floor,Completed,20,Value somebody event business quality here woman.
+664,126,2025-10-13,08:51:09,17,Trash Collection,Completed,95,
+665,150,2025-09-26,20:02:36,14,Sanitization,Completed,104,
+666,141,2025-01-25,05:45:35,18,Deep Clean,Completed,93,
+667,106,2024-12-16,02:10:40,10,Vacuuming,Completed,80,Get kind either look.
+668,110,2025-02-16,10:14:41,18,Trash Collection,Completed,65,
+669,149,2025-03-15,00:48:27,3,Trash Collection,Completed,104,
+670,116,2025-08-27,04:31:09,2,Mop Floor,Completed,26,Body scientist dream anything.
+671,108,2025-11-16,02:35:23,15,Deep Clean,Completed,92,
+672,143,2025-02-25,04:45:38,6,Vacuuming,Planned,16,
+673,145,2025-02-28,16:09:54,1,Mop Floor,Completed,78,Including response beyond side.
+674,134,2024-12-02,02:05:21,17,Trash Collection,Completed,36,
+675,148,2025-11-25,15:31:20,9,Vacuuming,Completed,113,Present thing little practice sense expert.
+676,122,2025-03-20,21:06:59,14,Trash Collection,Missed,82,
+677,146,2024-12-22,18:19:19,19,Vacuuming,Completed,78,
+678,124,2025-01-03,23:20:56,2,Sanitization,Completed,87,
+679,111,2025-07-10,20:44:38,9,Vacuuming,Missed,88,
+680,108,2025-06-25,03:40:21,8,Deep Clean,Planned,15,
+681,101,2025-09-06,01:16:09,8,Vacuuming,Planned,75,
+682,110,2025-11-19,06:12:31,6,Vacuuming,Completed,85,Think compare try young however many.
+683,146,2025-11-28,13:48:45,14,Mop Floor,Completed,56,
+684,147,2025-11-03,17:46:34,11,Trash Collection,Completed,120,
+685,124,2025-11-05,05:26:53,4,Deep Clean,Planned,101,Fear owner up.
+686,112,2025-04-09,19:38:11,8,Deep Clean,Completed,20,Writer myself management voice surface life cover.
+687,105,2025-01-12,04:45:01,15,Trash Collection,Completed,114,Room possible responsibility add.
+688,121,2025-04-09,15:17:16,3,Deep Clean,Completed,73,
+689,113,2025-03-24,06:41:28,10,Deep Clean,Completed,115,
+690,140,2025-08-18,08:45:25,8,Sanitization,Completed,62,
+691,132,2025-02-13,22:47:34,7,Deep Clean,Completed,112,
+692,110,2025-07-25,14:46:37,1,Sanitization,Completed,18,
+693,123,2025-11-13,12:25:43,1,Trash Collection,Completed,15,
+694,125,2025-10-17,14:55:36,10,Vacuuming,Completed,41,
+695,116,2025-06-18,15:52:25,14,Sanitization,Completed,22,Husband believe word local.
+696,110,2025-11-28,05:50:58,9,Vacuuming,Completed,20,End dog send.
+697,134,2025-04-07,21:42:24,14,Trash Collection,Completed,73,Reveal activity president realize artist brother fill if.
+698,106,2025-06-13,00:07:03,19,Vacuuming,Completed,79,
+699,126,2025-09-24,09:34:11,3,Deep Clean,Completed,87,
+700,143,2025-08-25,09:13:07,5,Mop Floor,Completed,52,
+701,121,2025-08-05,04:47:11,13,Trash Collection,Completed,55,
+702,115,2025-04-21,14:21:40,3,Mop Floor,Completed,32,
+703,138,2025-02-23,11:18:01,4,Mop Floor,Completed,28,
+704,130,2025-01-20,06:36:51,11,Sanitization,Completed,30,
+705,150,2025-01-28,13:20:48,7,Sanitization,Completed,54,
+706,108,2025-09-16,17:21:28,3,Mop Floor,Missed,118,
+707,146,2025-04-24,21:34:19,20,Vacuuming,Completed,42,Tree serious soon stay seven quite other.
+708,121,2025-10-01,21:32:24,5,Vacuuming,Planned,106,
+709,123,2025-06-22,23:32:54,13,Deep Clean,Completed,21,
+710,117,2025-06-23,04:50:51,6,Vacuuming,Completed,66,Back nor article natural measure of.
+711,136,2025-01-27,14:14:08,18,Mop Floor,Completed,27,
+712,109,2025-04-06,03:49:08,4,Vacuuming,Completed,22,Break day on before member speak.
+713,115,2025-05-25,11:51:45,5,Mop Floor,Completed,120,
+714,144,2025-06-17,10:24:39,3,Deep Clean,Completed,90,
+715,105,2025-05-26,02:07:42,1,Vacuuming,Completed,40,Next pull final against.
+716,129,2025-03-08,01:19:14,5,Vacuuming,Planned,118,
+717,103,2024-12-01,01:42:20,15,Vacuuming,Planned,36,Official and general as yes.
+718,128,2025-11-27,11:31:20,13,Sanitization,Missed,18,
+719,128,2025-11-27,09:26:29,6,Trash Collection,Completed,42,Expert conference career.
+720,118,2025-08-06,14:07:58,9,Sanitization,Completed,34,
+721,140,2025-08-07,03:39:58,20,Mop Floor,Planned,97,
+722,127,2025-04-24,13:58:48,18,Sanitization,Completed,22,
+723,125,2025-05-23,17:20:42,5,Sanitization,Completed,40,
+724,134,2025-04-24,14:59:07,8,Deep Clean,Completed,116,
+725,125,2025-08-22,22:37:21,12,Sanitization,Completed,84,
+726,123,2025-11-04,09:08:20,19,Deep Clean,Planned,56,
+727,112,2025-01-20,16:16:20,1,Trash Collection,Completed,91,
+728,150,2025-10-30,20:49:16,9,Vacuuming,Completed,118,Condition Mr more road.
+729,134,2025-02-24,07:53:55,12,Deep Clean,Completed,44,Without leg rest.
+730,107,2025-05-13,06:45:35,8,Mop Floor,Completed,49,
+731,148,2025-04-26,07:57:05,2,Mop Floor,Completed,88,Leave choice country themselves she.
+732,125,2024-12-12,16:32:36,12,Mop Floor,Planned,37,
+733,121,2025-08-13,06:45:32,12,Deep Clean,Completed,18,
+734,123,2025-07-26,08:41:35,19,Deep Clean,Completed,33,
+735,113,2025-11-28,21:04:54,16,Deep Clean,Completed,54,
+736,103,2025-03-03,04:28:37,3,Vacuuming,Planned,44,
+737,102,2024-12-26,19:13:57,17,Sanitization,Completed,15,
+738,140,2025-07-18,13:01:37,7,Mop Floor,Planned,58,
+739,121,2025-05-22,00:34:43,2,Vacuuming,Completed,33,
+740,110,2025-08-17,06:35:44,4,Deep Clean,Completed,61,Each analysis keep.
+741,124,2025-06-27,06:07:47,13,Deep Clean,Completed,27,
+742,121,2025-09-18,03:58:58,5,Mop Floor,Completed,108,Cell year doctor trouble.
+743,141,2025-07-11,09:27:47,16,Trash Collection,Completed,37,
+744,136,2025-07-12,07:46:59,20,Trash Collection,Completed,43,
+745,112,2025-09-26,20:54:22,13,Trash Collection,Completed,108,
+746,109,2025-10-13,04:11:37,6,Vacuuming,Planned,104,Few century produce determine feel.
+747,126,2024-12-23,07:17:26,19,Vacuuming,Completed,38,
+748,140,2025-07-17,19:06:20,8,Deep Clean,Completed,28,Personal interview many win.
+749,110,2025-11-30,16:58:44,11,Vacuuming,Planned,45,
+750,121,2025-08-17,15:35:36,6,Vacuuming,Completed,120,
+751,141,2025-10-01,14:24:01,11,Sanitization,Completed,16,
+752,116,2025-04-02,20:08:33,3,Trash Collection,Planned,47,
+753,147,2025-05-10,08:05:11,1,Vacuuming,Completed,64,
+754,127,2025-01-26,18:27:18,6,Sanitization,Completed,78,Contain Mrs drive different tax certain.
+755,123,2025-05-28,06:01:02,18,Sanitization,Completed,27,Include indicate morning home effort form bad.
+756,137,2025-05-23,04:20:55,8,Mop Floor,Completed,72,
+757,103,2025-01-04,07:02:33,10,Vacuuming,Completed,55,
+758,107,2025-09-07,10:42:51,3,Trash Collection,Completed,36,Environmental purpose owner.
+759,111,2025-11-04,01:32:46,3,Deep Clean,Planned,26,
+760,140,2025-02-11,16:47:20,16,Vacuuming,Completed,70,Right next look thank four whatever address view.
+761,111,2025-09-13,21:50:08,20,Sanitization,Completed,35,
+762,122,2025-09-16,23:48:50,7,Mop Floor,Completed,67,
+763,147,2025-06-03,16:28:15,18,Trash Collection,Completed,99,
+764,116,2025-08-27,11:33:30,4,Vacuuming,Completed,65,
+765,132,2025-08-30,04:50:34,5,Vacuuming,Completed,61,
+766,106,2025-05-03,14:28:38,10,Deep Clean,Completed,76,
+767,102,2025-07-02,18:49:30,7,Mop Floor,Completed,96,
+768,106,2025-09-27,11:23:21,16,Vacuuming,Planned,54,
+769,131,2025-04-26,17:14:02,16,Trash Collection,Completed,26,
+770,125,2025-06-25,01:21:18,6,Trash Collection,Planned,63,
+771,129,2025-04-18,21:03:34,2,Trash Collection,Completed,71,
+772,115,2025-03-11,00:22:14,9,Deep Clean,Planned,22,
+773,145,2025-06-17,21:27:34,4,Vacuuming,Completed,100,
+774,135,2025-05-29,22:05:58,14,Deep Clean,Completed,44,
+775,125,2025-10-07,16:28:55,17,Sanitization,Completed,83,
+776,131,2025-05-31,09:22:28,19,Mop Floor,Completed,75,
+777,126,2025-10-22,10:35:41,2,Deep Clean,Completed,88,Have including none determine certainly.
+778,137,2025-03-11,15:12:13,20,Mop Floor,Completed,30,Often individual charge form here street material pressure.
+779,129,2025-08-22,04:56:19,6,Mop Floor,Completed,42,Shake major rich science leave.
+780,109,2025-09-10,05:22:01,2,Sanitization,Completed,25,College result major true my politics.
+781,128,2024-12-22,17:01:10,7,Mop Floor,Completed,91,
+782,147,2024-12-13,11:48:59,3,Vacuuming,Completed,64,
+783,136,2025-10-13,14:06:05,11,Trash Collection,Completed,81,
+784,101,2024-12-18,17:52:56,20,Deep Clean,Completed,81,
+785,108,2024-12-02,01:32:39,14,Mop Floor,Completed,33,
+786,138,2025-01-22,04:11:13,4,Vacuuming,Planned,87,
+787,119,2025-02-27,08:27:19,18,Trash Collection,Completed,67,
+788,142,2025-08-31,20:41:36,16,Deep Clean,Completed,92,
+789,112,2024-12-03,07:21:58,9,Sanitization,Completed,33,
+790,144,2025-06-14,04:21:29,13,Vacuuming,Planned,65,Art point value tree process administration.
+791,122,2025-06-24,04:12:03,8,Vacuuming,Completed,110,
+792,118,2025-05-08,13:22:55,12,Vacuuming,Completed,58,Morning ever within.
+793,120,2024-12-06,15:31:44,10,Trash Collection,Completed,77,South travel blood benefit chance court.
+794,144,2025-06-22,21:18:56,4,Mop Floor,Completed,32,
+795,148,2025-10-12,16:21:06,15,Trash Collection,Completed,49,
+796,139,2025-03-13,05:59:32,3,Mop Floor,Planned,71,
+797,127,2025-05-03,00:49:03,16,Deep Clean,Planned,62,Where learn during recently feel stock.
+798,133,2024-12-31,16:32:45,6,Vacuuming,Completed,54,
+799,126,2025-10-29,05:08:21,5,Deep Clean,Completed,87,
+800,113,2025-09-20,12:32:42,7,Vacuuming,Planned,46,
+801,104,2025-01-05,05:55:17,12,Mop Floor,Completed,50,
+802,130,2025-04-26,14:24:46,17,Sanitization,Completed,96,Live PM reflect bar suddenly population former.
+803,144,2025-10-29,05:32:59,1,Mop Floor,Completed,62,
+804,129,2025-11-12,11:13:21,6,Sanitization,Completed,90,
+805,123,2025-11-21,15:06:48,6,Trash Collection,Completed,110,Deep test thought little another.
+806,106,2024-12-28,13:38:46,10,Vacuuming,Completed,64,
+807,137,2025-11-24,17:00:52,7,Mop Floor,Planned,97,
+808,114,2025-11-14,02:25:45,9,Sanitization,Planned,80,
+809,150,2025-07-06,09:27:24,1,Sanitization,Completed,31,
+810,139,2024-12-12,21:07:34,1,Mop Floor,Completed,47,
+811,120,2025-11-25,13:25:38,9,Sanitization,Missed,63,Which onto sell.
+812,130,2025-09-02,15:20:57,9,Mop Floor,Planned,74,
+813,134,2025-05-03,07:00:06,20,Sanitization,Completed,89,
+814,133,2025-03-26,17:20:49,12,Deep Clean,Planned,97,
+815,119,2025-07-07,23:15:06,10,Vacuuming,Planned,76,
+816,118,2025-07-08,12:57:28,11,Trash Collection,Completed,48,
+817,142,2025-08-19,18:03:10,10,Mop Floor,Completed,34,
+818,116,2025-04-07,13:11:07,2,Deep Clean,Completed,66,
+819,144,2025-09-19,11:11:05,5,Vacuuming,Completed,98,
+820,119,2025-01-23,22:28:29,9,Sanitization,Completed,66,
+821,103,2025-08-24,04:23:47,19,Deep Clean,Planned,119,
+822,147,2024-12-30,06:34:09,8,Deep Clean,Completed,96,
+823,143,2025-09-15,09:13:39,12,Deep Clean,Completed,53,Best discussion away.
+824,143,2025-07-23,17:44:26,18,Mop Floor,Completed,52,
+825,109,2025-07-26,22:24:26,9,Deep Clean,Completed,112,Why for plant situation late direction.
+826,144,2025-07-02,06:55:33,11,Vacuuming,Planned,43,
+827,148,2025-05-16,12:56:18,10,Sanitization,Completed,115,Produce beat peace something require bank child Republican.
+828,124,2025-08-03,13:44:53,9,Deep Clean,Completed,52,
+829,108,2025-09-13,02:33:50,16,Vacuuming,Completed,96,
+830,140,2025-04-01,06:04:14,3,Sanitization,Completed,39,
+831,144,2025-01-10,18:03:59,13,Deep Clean,Completed,53,
+832,110,2024-12-02,00:42:04,5,Mop Floor,Completed,58,
+833,137,2025-05-21,19:08:54,15,Mop Floor,Completed,55,Bill beautiful issue news mention.
+834,112,2025-01-09,17:50:13,3,Sanitization,Completed,57,
+835,112,2025-01-03,14:05:41,11,Vacuuming,Completed,15,
+836,114,2025-07-03,02:59:37,6,Deep Clean,Completed,112,
+837,149,2025-07-19,11:01:09,3,Mop Floor,Planned,93,
+838,128,2025-09-30,18:13:39,13,Sanitization,Completed,76,
+839,103,2025-10-31,03:22:20,18,Mop Floor,Completed,108,
+840,101,2024-12-04,21:43:42,11,Deep Clean,Completed,39,
+841,101,2025-05-09,19:26:47,8,Mop Floor,Completed,103,Right nice yeah drug.
+842,120,2025-06-20,00:09:19,5,Vacuuming,Completed,64,
+843,120,2025-08-23,03:30:00,6,Vacuuming,Completed,120,
+844,119,2025-02-03,21:19:23,15,Deep Clean,Missed,91,
+845,128,2025-03-14,15:47:48,5,Trash Collection,Completed,77,
+846,113,2025-03-14,15:53:22,6,Sanitization,Completed,17,
+847,147,2025-01-25,12:19:37,5,Mop Floor,Completed,108,
+848,133,2025-02-02,22:29:44,6,Vacuuming,Missed,61,
+849,103,2025-03-17,13:19:47,13,Trash Collection,Completed,113,
+850,104,2025-03-26,15:13:45,20,Vacuuming,Completed,99,
+851,102,2025-09-29,21:22:52,2,Vacuuming,Completed,68,
+852,108,2025-04-19,00:44:27,18,Trash Collection,Completed,75,
+853,114,2025-03-05,01:16:31,1,Trash Collection,Completed,68,
+854,143,2025-07-30,05:40:22,17,Trash Collection,Planned,94,
+855,109,2025-07-18,09:15:48,14,Vacuuming,Completed,80,
+856,108,2025-02-13,05:06:23,10,Vacuuming,Completed,115,
+857,113,2025-01-10,14:39:11,20,Mop Floor,Completed,114,
+858,134,2025-03-28,04:53:34,7,Trash Collection,Completed,105,
+859,111,2025-05-02,07:17:08,2,Deep Clean,Completed,78,Here television key issue statement prepare organization feel.
+860,145,2025-07-22,14:00:41,16,Trash Collection,Completed,45,
+861,143,2025-02-16,20:26:28,3,Vacuuming,Completed,88,
+862,110,2025-04-01,04:45:28,3,Deep Clean,Completed,24,
+863,107,2025-05-03,05:01:53,9,Mop Floor,Completed,73,Same plan whose site for.
+864,119,2025-03-18,01:56:59,9,Sanitization,Completed,21,
+865,112,2025-10-01,10:56:09,2,Trash Collection,Completed,61,Box nor or nation race nearly.
+866,121,2025-09-08,16:22:54,14,Vacuuming,Completed,27,Just fact realize standard somebody.
+867,103,2025-05-07,22:48:19,1,Mop Floor,Completed,99,
+868,122,2025-06-11,07:34:40,12,Sanitization,Completed,94,
+869,147,2025-08-02,22:42:38,3,Trash Collection,Planned,119,
+870,108,2025-03-03,10:29:51,13,Sanitization,Planned,73,
+871,125,2025-08-12,06:01:05,16,Sanitization,Completed,98,Smile available wrong look husband media.
+872,111,2025-11-22,12:24:37,4,Mop Floor,Completed,104,
+873,111,2025-05-11,08:59:49,4,Sanitization,Completed,90,
+874,137,2024-12-14,11:23:57,15,Mop Floor,Completed,93,
+875,123,2025-04-18,05:09:13,20,Vacuuming,Completed,102,Order trial body eat professor coach partner.
+876,147,2025-07-06,08:06:00,5,Sanitization,Completed,77,
+877,127,2025-08-20,21:35:26,15,Vacuuming,Completed,23,
+878,121,2025-05-04,00:46:01,1,Deep Clean,Completed,113,
+879,147,2025-04-07,10:19:47,19,Mop Floor,Completed,100,Black better develop section newspaper reach.
+880,134,2025-02-23,21:15:59,17,Deep Clean,Completed,27,
+881,147,2025-04-24,16:37:07,8,Sanitization,Completed,59,
+882,142,2025-05-28,16:05:09,13,Mop Floor,Completed,120,
+883,140,2025-08-20,11:35:11,2,Vacuuming,Completed,97,Character young lot far turn beat story.
+884,133,2025-09-09,08:32:00,16,Sanitization,Completed,36,
+885,132,2025-04-14,01:50:21,11,Mop Floor,Completed,57,Lay deal lot live just recent.
+886,104,2025-04-02,15:03:26,17,Mop Floor,Completed,85,
+887,126,2025-03-26,14:28:41,8,Vacuuming,Completed,73,
+888,137,2025-10-10,12:11:04,15,Vacuuming,Completed,78,
+889,108,2025-01-13,08:32:37,16,Vacuuming,Completed,28,
+890,103,2025-10-25,05:58:06,18,Deep Clean,Completed,15,Quality clearly worker during.
+891,139,2025-02-05,19:18:55,20,Trash Collection,Completed,80,
+892,142,2025-01-31,19:01:16,15,Trash Collection,Planned,61,Interview left something picture control price how.
+893,115,2025-09-12,17:03:23,15,Trash Collection,Planned,86,
+894,139,2025-11-07,12:36:34,16,Trash Collection,Completed,106,
+895,107,2025-05-23,06:56:40,8,Vacuuming,Completed,58,
+896,141,2025-05-15,13:34:51,10,Deep Clean,Completed,81,
+897,107,2024-12-01,07:10:17,2,Mop Floor,Completed,78,
+898,146,2025-02-21,19:13:34,14,Vacuuming,Planned,47,
+899,113,2025-03-18,03:38:16,4,Sanitization,Completed,42,
+900,113,2025-08-30,02:06:34,11,Vacuuming,Completed,111,
+901,141,2025-10-05,00:43:45,19,Vacuuming,Completed,113,Big the cost for leader energy television.
+902,130,2025-06-22,03:07:15,19,Deep Clean,Completed,32,Others particularly only girl suddenly pay.
+903,101,2025-10-12,03:24:24,17,Vacuuming,Completed,85,Try opportunity public finish draw.
+904,138,2025-01-14,14:18:39,16,Deep Clean,Completed,114,Really memory industry case himself control.
+905,112,2025-08-03,15:13:17,19,Mop Floor,Completed,108,Never majority cell fire.
+906,107,2025-05-24,12:26:54,13,Deep Clean,Planned,92,Tend weight machine.
+907,133,2025-02-13,07:14:56,13,Sanitization,Planned,92,White measure manager range indeed style.
+908,149,2025-06-07,02:35:32,8,Trash Collection,Completed,65,Not somebody determine allow.
+909,119,2025-02-25,08:01:57,15,Mop Floor,Completed,32,
+910,145,2025-03-22,20:33:38,17,Trash Collection,Completed,104,
+911,121,2025-09-29,18:50:04,18,Mop Floor,Completed,40,
+912,146,2025-07-07,09:23:21,10,Trash Collection,Completed,101,
+913,146,2025-09-26,00:48:33,6,Deep Clean,Completed,84,
+914,121,2025-06-10,12:26:26,4,Trash Collection,Completed,86,
+915,137,2025-06-16,20:59:27,14,Deep Clean,Completed,51,Box simple statement happen state among rest.
+916,128,2025-06-30,21:20:27,1,Deep Clean,Completed,28,
+917,110,2025-05-14,13:47:10,2,Vacuuming,Completed,40,
+918,111,2025-09-11,02:21:33,10,Trash Collection,Planned,33,Fear yourself last give stage.
+919,145,2025-05-19,15:29:30,10,Mop Floor,Completed,111,
+920,123,2025-09-27,14:36:12,15,Vacuuming,Completed,93,Decide scene ready technology particular.
+921,148,2025-05-15,11:53:34,18,Mop Floor,Planned,110,
+922,125,2025-07-27,16:53:27,8,Deep Clean,Completed,115,
+923,145,2025-09-30,13:25:32,10,Vacuuming,Planned,63,
+924,144,2025-10-11,14:08:27,11,Deep Clean,Completed,21,
+925,117,2025-10-08,08:19:37,7,Deep Clean,Completed,114,Go exactly much food region eye environment.
+926,129,2025-10-29,20:29:34,8,Trash Collection,Completed,111,
+927,148,2025-11-14,01:49:28,20,Mop Floor,Completed,114,
+928,113,2025-10-12,20:01:24,10,Sanitization,Completed,37,While size try yeah.
+929,105,2025-11-01,09:22:15,6,Mop Floor,Completed,109,
+930,125,2025-01-18,01:13:16,2,Sanitization,Completed,50,
+931,109,2025-11-01,01:10:46,6,Deep Clean,Completed,47,
+932,130,2025-03-06,21:36:45,5,Vacuuming,Planned,34,Stock seven put majority officer environmental.
+933,139,2025-05-09,23:00:42,2,Deep Clean,Missed,99,
+934,137,2025-05-24,23:12:40,18,Trash Collection,Completed,24,
+935,121,2025-08-03,20:32:35,17,Mop Floor,Completed,38,
+936,133,2025-11-06,17:18:51,6,Sanitization,Completed,84,
+937,106,2025-01-05,21:50:48,12,Mop Floor,Completed,42,
+938,122,2025-06-18,10:32:38,12,Trash Collection,Planned,42,Reason theory lawyer maintain old.
+939,140,2025-11-02,05:41:09,17,Sanitization,Completed,86,Room learn professional group.
+940,142,2024-12-24,16:22:20,1,Vacuuming,Completed,100,
+941,116,2025-06-25,06:45:31,20,Deep Clean,Completed,46,Why station manager follow exist.
+942,144,2025-06-30,14:50:51,11,Sanitization,Completed,116,Not magazine gas radio.
+943,125,2024-12-18,22:01:29,9,Deep Clean,Completed,107,
+944,134,2025-01-07,18:38:02,12,Deep Clean,Planned,117,
+945,132,2025-09-30,23:12:03,2,Trash Collection,Completed,98,
+946,133,2024-12-06,22:21:37,3,Vacuuming,Completed,36,Kid a when dark.
+947,150,2025-08-24,17:13:04,18,Deep Clean,Completed,15,
+948,114,2025-11-07,18:25:56,7,Sanitization,Planned,28,
+949,145,2025-03-27,09:44:48,14,Vacuuming,Planned,110,
+950,102,2025-11-04,18:58:39,15,Trash Collection,Completed,19,
+951,104,2025-01-05,20:55:56,6,Trash Collection,Completed,86,
+952,115,2025-04-18,11:01:21,9,Sanitization,Completed,64,
+953,126,2025-01-01,05:26:54,14,Trash Collection,Completed,17,
+954,108,2025-08-15,18:36:59,18,Vacuuming,Planned,97,
+955,105,2025-02-02,04:18:43,19,Vacuuming,Completed,104,Personal rise sense investment before believe.
+956,123,2025-02-20,02:17:03,17,Vacuuming,Completed,52,
+957,120,2024-12-30,06:30:27,20,Vacuuming,Completed,51,
+958,129,2025-07-18,00:06:16,13,Sanitization,Completed,120,
+959,131,2025-06-19,01:29:51,6,Deep Clean,Completed,43,
+960,126,2025-05-21,19:52:49,18,Trash Collection,Completed,96,
+961,144,2024-12-03,03:50:15,12,Vacuuming,Completed,85,Stage write institution car audience him.
+962,110,2025-09-09,03:58:54,4,Vacuuming,Completed,15,
+963,126,2025-01-08,02:06:54,18,Deep Clean,Completed,25,
+964,148,2025-03-31,19:05:05,12,Mop Floor,Completed,67,Case similar send card year.
+965,133,2025-01-24,09:06:47,5,Mop Floor,Completed,38,
+966,117,2025-06-24,16:17:54,7,Vacuuming,Completed,38,
+967,137,2024-12-03,13:36:24,2,Deep Clean,Completed,74,
+968,105,2025-08-09,03:20:10,10,Vacuuming,Completed,47,
+969,147,2025-05-19,19:38:05,19,Sanitization,Completed,57,
+970,143,2025-09-06,12:31:28,8,Vacuuming,Completed,51,
+971,113,2025-07-31,07:45:01,11,Sanitization,Completed,72,
+972,143,2025-01-27,02:31:04,10,Deep Clean,Planned,34,
+973,124,2025-07-27,16:40:30,11,Sanitization,Completed,36,
+974,116,2025-05-20,15:30:04,8,Sanitization,Completed,50,To cause but role.
+975,109,2025-04-15,12:21:50,11,Sanitization,Completed,74,
+976,150,2025-04-01,07:36:33,10,Sanitization,Completed,85,
+977,142,2025-01-23,18:19:58,20,Vacuuming,Completed,50,Popular easy over return expect.
+978,109,2025-11-30,21:01:32,18,Mop Floor,Completed,48,
+979,141,2024-12-10,18:05:56,3,Vacuuming,Completed,17,Day parent country hot position.
+980,141,2025-09-30,11:02:21,1,Deep Clean,Completed,89,
+981,138,2025-03-02,12:01:25,7,Vacuuming,Completed,85,
+982,135,2025-04-28,06:12:49,16,Mop Floor,Completed,61,
+983,150,2025-03-03,04:35:35,19,Trash Collection,Completed,32,
+984,133,2025-08-04,04:54:39,3,Sanitization,Completed,61,
+985,143,2024-12-27,15:10:22,8,Deep Clean,Completed,102,
+986,133,2025-11-10,22:15:07,5,Sanitization,Completed,35,
+987,137,2025-04-19,23:17:31,5,Sanitization,Completed,60,
+988,149,2025-01-20,22:00:08,16,Mop Floor,Completed,23,
+989,115,2025-10-30,04:06:32,2,Mop Floor,Completed,81,Half raise several west side admit.
+990,124,2024-12-26,20:05:58,13,Sanitization,Planned,73,Democratic two we huge expert.
+991,103,2025-09-02,15:20:57,11,Vacuuming,Completed,105,Interest I policy Mrs check base.
+992,141,2024-12-30,13:07:49,9,Trash Collection,Completed,89,
+993,112,2025-11-22,12:01:25,13,Sanitization,Completed,61,
+994,105,2025-10-09,22:04:08,17,Trash Collection,Completed,63,Force only shake power poor financial join.
+995,115,2025-10-24,08:44:57,17,Sanitization,Completed,60,Each under break partner.
+996,123,2024-12-21,10:42:33,16,Sanitization,Completed,92,
+997,109,2025-08-15,21:24:45,15,Mop Floor,Planned,44,
+998,142,2025-08-12,03:48:52,9,Mop Floor,Completed,34,
+999,124,2025-02-06,18:31:47,20,Vacuuming,Missed,99,
+1000,122,2024-12-04,23:09:42,4,Sanitization,Completed,101,

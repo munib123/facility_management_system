@@ -1,0 +1,21 @@
+Cleaner_ID,Name,Shift,Hours_worked,Role_Grade,Assigned_Location_ID
+1,Kimberly Osborne,Night,6,Supervisor,148
+2,Katherine Rodriguez,Afternoon,8,Senior Cleaner,128
+3,David Bradley,Morning,8,Supervisor,126
+4,Rose Spence,Night,6,Supervisor,115
+5,John Pierce,Afternoon,5,Junior Cleaner,133
+6,Jenny Lewis,Night,7,Junior Cleaner,106
+7,Michelle Ross,Night,10,Junior Cleaner,104
+8,Steven Hayes,Morning,10,Supervisor,108
+9,Alex Spencer,Night,5,Supervisor,141
+10,Michael Brown,Morning,5,Supervisor,144
+11,Andrea Young,Night,7,Senior Cleaner,139
+12,Carlos Walls,Night,4,Junior Cleaner,125
+13,Richard Aguirre,Morning,7,Supervisor,139
+14,Jeffrey Henderson,Afternoon,7,Junior Cleaner,134
+15,Matthew Lucas,Morning,6,Senior Cleaner,136
+16,Rebecca Rodriguez,Morning,10,Supervisor,101
+17,Brenda White,Afternoon,9,Supervisor,147
+18,Angela Morton,Night,4,Supervisor,144
+19,Zachary Huff,Morning,8,Supervisor,149
+20,John Lewis,Afternoon,6,Supervisor,150
