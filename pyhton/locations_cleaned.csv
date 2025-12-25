@@ -1,0 +1,51 @@
+Location_ID,Building_Wing,Floor,Room_Area_Type,Size_sqm,Cleaning_Priority
+101,North Wing,1,Office,32,Low
+102,Admin Block,3,Conference Room,145,High
+103,South Wing,2,Office,91,Low
+104,North Wing,1,Pantry,299,Medium
+105,North Wing,1,Office,236,High
+106,South Wing,1,Conference Room,35,Low
+107,North Wing,1,Pantry,131,High
+108,Cafeteria,2,Conference Room,278,Medium
+109,Admin Block,5,Office,33,High
+110,Cafeteria,5,Washroom,121,Medium
+111,South Wing,5,Conference Room,234,Medium
+112,North Wing,2,Office,249,Medium
+113,North Wing,5,Washroom,162,Medium
+114,Admin Block,1,Office,101,Low
+115,Cafeteria,4,Pantry,194,High
+116,Cafeteria,3,Office,99,Low
+117,Admin Block,2,Pantry,192,Medium
+118,South Wing,1,Office,67,High
+119,South Wing,4,Washroom,69,High
+120,South Wing,3,Office,196,Medium
+121,Admin Block,5,Lobby,155,Low
+122,Admin Block,1,Conference Room,255,Medium
+123,Admin Block,5,Conference Room,83,Low
+124,Admin Block,4,Office,60,Low
+125,South Wing,5,Pantry,170,Low
+126,South Wing,5,Conference Room,205,Medium
+127,Cafeteria,5,Washroom,118,Low
+128,South Wing,1,Washroom,43,High
+129,South Wing,2,Office,168,Medium
+130,Cafeteria,1,Washroom,139,High
+131,South Wing,1,Pantry,214,Low
+132,Admin Block,3,Conference Room,252,Low
+133,Cafeteria,3,Lobby,103,Low
+134,Cafeteria,3,Conference Room,201,Medium
+135,South Wing,2,Conference Room,156,Low
+136,Admin Block,1,Pantry,107,Medium
+137,Cafeteria,5,Washroom,145,High
+138,South Wing,2,Pantry,256,Medium
+139,North Wing,4,Office,158,High
+140,South Wing,5,Conference Room,132,Low
+141,Cafeteria,3,Pantry,48,High
+142,Cafeteria,2,Lobby,36,Low
+143,Cafeteria,3,Pantry,225,Medium
+144,North Wing,3,Office,53,Low
+145,Admin Block,2,Washroom,181,High
+146,Admin Block,2,Lobby,275,High
+147,Cafeteria,4,Office,254,Low
+148,Admin Block,2,Pantry,155,High
+149,North Wing,2,Washroom,146,Low
+150,South Wing,5,Conference Room,295,Medium
